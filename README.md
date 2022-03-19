@@ -8,7 +8,10 @@ How To Use
 - Click the Create New Music Looper Button
 - Add a music clip to Music Looper's AudioSource
 
-If there is another Music Looper in the transitional scene and have different Music clip, old music will stop and new music start to loop.
-If there is another Music Looper in the transitional scene and have same Music clip, music will continue playing.
-If there is no Music Looper in the transitional scene ,music will continue playing.
+
+How works
+
+- If there is another Music Looper in the transitional scene and have different Music clip, old music will stop and new music start to loop.
+- If there is another Music Looper in the transitional scene and have same Music clip, music will continue playing.
+- If there is no Music Looper in the transitional scene ,music will continue playing.
 
